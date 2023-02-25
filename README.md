@@ -1,7 +1,7 @@
 # Openai-chatbot
 This is a chatbot built with HTML, CSS and JavaScript that uses OpenAI's text-davinci-003 API engine to generate responses. It has a minimalist design and a floating widget that can be toggled open or closed. Users input messages, the API generates a response, and it's displayed in the chat window.
 
-![alt text](https://github.com/felipeOliveira-1/openai-chatbot/blob/main/example%20(2).jpeg?raw=true)
+
 
 # Chat AI
 This is a simple chatbot project built using HTML, CSS and JavaScript, which utilizes OpenAI's text-davinci-003 API engine to generate responses to user input. The chatbot's design is minimalist and is represented by a floating widget that can be toggled open or closed. Users can input text messages which are then sent to the API, and the chatbot generates a response which is displayed on the chat window. The chatbot's responses are continuously improving over time as it learns from user interactions.
