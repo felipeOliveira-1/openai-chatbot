@@ -1,6 +1,6 @@
 const cache = {};
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "";
 const OPENAI_API_ENDPOINT = "https://api.openai.com/v1/engines/text-davinci-003/completions";
 
 const chatToggle = document.getElementById('chat-toggle');
